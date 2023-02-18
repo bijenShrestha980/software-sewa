@@ -67,7 +67,7 @@ const TopBar = () => {
               <a href="#" className="flex items-center mt-2">
                 <div className="w-8 h-8 image-fit">
                   <img
-                    alt="Midone - HTML Admin Template"
+                    alt=""
                     className="rounded-full"
                     src="/images/profile-5.jpg"
                   />
@@ -82,7 +82,7 @@ const TopBar = () => {
             <a href="#" className="flex items-center mt-2">
               <div className="w-8 h-8 image-fit">
                 <img
-                  alt="Midone - HTML Admin Template"
+                  alt=""
                   className="rounded-full"
                   src="/images/preview-6.jpg"
                 />
@@ -118,7 +118,7 @@ const TopBar = () => {
             <div className="cursor-pointer relative flex items-center ">
               <div className="w-12 h-12 flex-none image-fit mr-1">
                 <img
-                  alt="Midone - HTML Admin Template"
+                  alt=""
                   className="rounded-full"
                   src="/images/profile-5.jpg"
                 />
@@ -143,7 +143,7 @@ const TopBar = () => {
             <div className="cursor-pointer relative flex items-center mt-5">
               <div className="w-12 h-12 flex-none image-fit mr-1">
                 <img
-                  alt="Midone - HTML Admin Template"
+                  alt=""
                   className="rounded-full"
                   src="/images/profile-3.jpg"
                 />
@@ -178,10 +178,7 @@ const TopBar = () => {
           data-tw-toggle="dropdown"
           onClick={toggleUser}
         >
-          <img
-            alt="Midone - HTML Admin Template"
-            src="/images/profile-10.jpg"
-          />
+          <img alt="" src="/images/profile-10.jpg" />
         </div>
         <div
           className={

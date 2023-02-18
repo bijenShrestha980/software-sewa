@@ -55,7 +55,7 @@ const Header = () => {
           </a>
           <ul className={isActive ? "menu__sub-open topNav" : "hidden"}>
             <li>
-              <a href="dashboard-overview-1.html" className="menu menu--active">
+              <a href="" className="menu menu--active">
                 <div className="menu__icon">
                   <i data-lucide="activity"></i>
                 </div>

@@ -21,7 +21,7 @@ const Sidebar = () => {
     <nav className="side-nav">
       <a href="#" className="intro-x flex items-center pl-5 pt-4">
         <img
-          alt="Midone - HTML Admin Template"
+          alt=""
           className="w-6"
           src="http://rubick.left4code.com/dist/images/logo.svg"
         />
@@ -60,7 +60,7 @@ const Sidebar = () => {
           </a>
           <ul className={isActive ? "side-menu__sub-open" : null}>
             <li>
-              <a href="crud-data-list.html" className="side-menu">
+              <a href="#" className="side-menu">
                 <div className="side-menu__icon">
                   <BiHomeAlt />
                 </div>
@@ -68,7 +68,7 @@ const Sidebar = () => {
               </a>
             </li>
             <li>
-              <a href="crud-form.html" className="side-menu">
+              <a href="#" className="side-menu">
                 <div className="side-menu__icon">
                   <BiCart />
                 </div>

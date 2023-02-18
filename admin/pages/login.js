@@ -13,7 +13,7 @@ const login = () => {
           <div className="hidden xl:flex flex-col min-h-screen">
             <a href="" className="-intro-x flex items-center pt-5">
               <img
-                alt="Midone - HTML Admin Template"
+                alt=""
                 className="w-6"
                 src="http://rubick.left4code.com/dist/images/logo.svg"
               />
@@ -21,7 +21,7 @@ const login = () => {
             </a>
             <div className="my-auto">
               <img
-                alt="Midone - HTML Admin Template"
+                alt=""
                 className="-intro-x w-1/2 -mt-16"
                 src="http://rubick.left4code.com/dist/images/illustration.svg"
               />
